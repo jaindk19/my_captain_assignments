@@ -1,5 +1,4 @@
 # my_captain_assignments
-NameError: name 'pi' is not defined
 >>> 1.1
 1.1
 >>> r=1.1
@@ -7,6 +6,7 @@ NameError: name 'pi' is not defined
 >>> r*r*3.14
 3.7994000000000008
 >>>
+
 
 
 
